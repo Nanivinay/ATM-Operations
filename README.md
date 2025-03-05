@@ -22,7 +22,7 @@ This is a console-based ATM (Automated Teller Machine) project developed using P
    ```
 2. Navigate to the project directory:
    ```sh
-   cd ATM-Console-Python
+   ATM(Console Based Project).py
    ```
 3. Run the script:
    ```sh
