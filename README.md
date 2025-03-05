@@ -18,7 +18,7 @@ This is a console-based ATM (Automated Teller Machine) project developed using P
 ## Installation
 1. Clone this repository or download the source code:
    ```sh
-   git clone https://github.com/your-repo/ATM-Console-Python.git
+   https://github.com/Nanivinay/ATM-Operations/blob/main/ATM(Console%20Based%20Project).py
    ```
 2. Navigate to the project directory:
    ```sh
